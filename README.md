@@ -3,6 +3,6 @@ Google Chrome Extension of an interactive AI Chatbot from Gemini API to deliver 
 
 ### How to access AskGemini:
 1. Download the zip file.
-2.. Insert Gemini API key in line 1 of sidePanel.js.
+2. Insert Gemini API key in line 1 of sidePanel.js.
 3. Load this folder on Google Chrome Extensions.
 4. Right click to access AskGemini
